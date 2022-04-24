@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "create-next-app": "^12.1.5",
+    "generator-code": "^1.6.8",
+    "nodemon": "^2.0.15",
+    "vsce": "^2.7.0",
+    "yo": "^4.3.0"
+  }
+}

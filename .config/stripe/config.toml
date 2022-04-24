@@ -1,0 +1,19 @@
+color = ""
+
+[default]
+  account_id = "acct_1BU1z9GUhPzfGLK3"
+  device_name = "Edgars-MacBook-Pro.local"
+  display_name = "Edgar Guzman Carpentry"
+  live_mode_api_key = "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"
+  live_mode_publishable_key = "pk_live_5EjD91JO4L9aNc36ElX8v8Sm"
+  test_mode_api_key = "rk_test_51BU1z9GUhPzfGLK3zCv8liyfYWyE9sBZIRbaGyzLr486Hea6248585QzhEnEDSuoV7Fm2cjMSOSq8kDxs1evoh3d00XCf4ymD7"
+  test_mode_publishable_key = "pk_test_51BU1z9GUhPzfGLK3ZlRMrNbRcqoumEN5gXKCo1FI8QenPWmpyWPFYm2OquqqOqYjo9yJG02SWqjRYpUts2zqOyHl00WuWcSU8N"
+
+[stripe-payments-demo]
+  account_id = "acct_1BU1z9GUhPzfGLK3"
+  device_name = "Edgars-MacBook-Pro.local"
+  display_name = "Edgar Guzman Carpentry"
+  live_mode_api_key = "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"
+  live_mode_publishable_key = "pk_live_5EjD91JO4L9aNc36ElX8v8Sm"
+  test_mode_api_key = "rk_test_51BU1z9GUhPzfGLK37lquLHgxDbE21A8sOcU0OnqDlD6L2cadSh1uKruZhgvC1nWSYjZpC4I4g1TR0vys6yjQt6fO004s3HhWoc"
+  test_mode_publishable_key = "pk_test_51BU1z9GUhPzfGLK3ZlRMrNbRcqoumEN5gXKCo1FI8QenPWmpyWPFYm2OquqqOqYjo9yJG02SWqjRYpUts2zqOyHl00WuWcSU8N"
